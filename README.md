@@ -8,3 +8,5 @@ Features added:
 - change difficulty (changes speed of the snake movement)
 - tracks high score
 - simple alert box before game starts
+
+Check out the game here: https://618fd1850769522ee6199851--snake-game-linked-list.netlify.app
