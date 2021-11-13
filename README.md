@@ -1,6 +1,6 @@
-Classic snake game made with React, that uses linked lists and also reverses a linked list. 
+Classic snake game made with React, that uses linked lists and also reverses a linked list that adds a slight twist. 
 
-Project inspired by and built upon Clément Mihailescu's tutorial: https://www.youtube.com/watch?v=7Rkib_fvowE&t=2227s&ab_channel=Cl%C3%A9mentMihailescu
+Inspired by and built upon Clément Mihailescu's tutorial: https://www.youtube.com/watch?v=7Rkib_fvowE&t=2227s&ab_channel=Cl%C3%A9mentMihailescu
 
 Features added: 
 - press P button to pause
